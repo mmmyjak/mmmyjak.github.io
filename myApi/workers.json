@@ -1,0 +1,76 @@
+{"Workers": {
+     "Founder": {
+         "Name": "John",
+         "Surname": "Flanagan",
+         "Salary": 12500
+     },
+     "CEO": {
+        "Name": "Mike",
+        "Surname": "Flanagan",
+        "Salary": 10200
+    },
+    "Managers": [
+        {
+            "Name": "Mike",
+            "Surname": "Johnson",
+            "Salary": 6700
+        },
+        {
+            "Name": "Toby",
+            "Surname": "Nandro",
+            "Salary": 6500
+        },
+        {
+            "Name": "Artur",
+            "Surname": "Mickey",
+            "Salary": 6800
+        }
+    ],
+    "Regulars": [
+        {
+            "Name": "Mike",
+            "Surname": "Danoty",
+            "Salary": 4000
+        },
+        {
+            "Name": "Toby",
+            "Surname": "Manoski",
+            "Salary": 3800
+        },
+        {
+            "Name": "Artur",
+            "Surname": "Rock",
+            "Salary": 3760
+        },
+        {
+            "Name": "Matt",
+            "Surname": "Demon",
+            "Salary": 4100
+        },
+        {
+            "Name": "Rick",
+            "Surname": "Colding",
+            "Salary": 4230
+        },
+        {
+            "Name": "John",
+            "Surname": "Ricardson",
+            "Salary": 3500
+        },
+        {
+            "Name": "Mike",
+            "Surname": "Fluffy",
+            "Salary": 3400
+        },
+        {
+            "Name": "David",
+            "Surname": "Samson",
+            "Salary": 3900
+        },
+        {
+            "Name": "John",
+            "Surname": "Mickey",
+            "Salary": 3300
+        }
+    ]
+}}
